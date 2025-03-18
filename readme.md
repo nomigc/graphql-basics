@@ -20,7 +20,7 @@ yarn start
 
 ```sh
 yarn run dev
-
+```
 # 📡 API Query Example
 
 ```graphql
@@ -35,7 +35,7 @@ query GetTodosWithUser {
     }
   }
 }
-
+```
 
 # 🛠 Tech Stack
 
